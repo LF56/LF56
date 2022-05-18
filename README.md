@@ -2,14 +2,6 @@
  <h1 align="center">Hi 👋, I'm Leah!</h1>
 <h3 align="center">A passionate FullStack developer with a passion for FrontEnd!</h3>
 <br>
-
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=LF56&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LF56&layout=compact) -->
-
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lf56&show_icons=true&locale=en&layout=compact" alt="lf56" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lf56&" alt="lf56" /></p>
-
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/LF56)
