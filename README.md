@@ -6,8 +6,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/LF56)
 
-- 🔭 I’m currently working on **learning new technologies**
-
 - 🌱 I’m currently **refreshing my skills**
 
 - 👨‍💻 All of my projects are available [Here:)](https://github.com/LF56)
